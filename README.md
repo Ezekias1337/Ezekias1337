@@ -9,10 +9,6 @@
 - 🥅 2021 Goals: Contribute to Open Source projects and nonprofit organizations
 - ⚡ Fun fact: I love to play drums and World of Warcraft [<img src="https://preview.redd.it/qw91b66clzg51.png?width=64&format=png&auto=webp&s=7f728c2062aa19a0b3280ad46808d8573fa70721" alt="WOW Logo" width="20.85" height="21.21" align="center" />](https://worldofwarcraft.com/en-us/wowclassic)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
