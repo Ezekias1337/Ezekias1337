@@ -43,9 +43,8 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  [![Ezekias1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezekias1337)](https://github.com/Ezekias1337/github-readme-stats)
 
-  <img align="left" alt="Ezekias1337's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ezekias1337&show_icons=true&hide_border=true" />
 
 </details>
 
