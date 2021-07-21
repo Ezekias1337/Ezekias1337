@@ -1,6 +1,6 @@
 ### Hi there, I'm Frank - aka [Ezekias1337][website] 👋
 
-[![Website](https://img.shields.io/website?label=Ezekias1337.com&style=for-the-badge&url=https%3A%2F%2FEzekias1337.com)](https://Ezekias1337.com)
+
 
 
 ## I'm a Software Engineer!
