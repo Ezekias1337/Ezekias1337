@@ -3,7 +3,7 @@
 
 
 
-## I'm a Software Engineer!
+## I'm a Front End Developer!
 
 - 🌱 I’m currently learning data structures and algorithms
 - 🥅 2021 Goals: Contribute to Open Source projects and nonprofit organizations
