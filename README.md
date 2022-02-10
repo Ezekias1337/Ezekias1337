@@ -1,4 +1,4 @@
-### Hi there, I'm Frank - aka [Ezekias1337][website] 👋
+### Hi there, I'm Frank - aka [Ezekias1337] 👋
 
 
 
