@@ -35,8 +35,6 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezekias1337&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-
-//[website]: https://www.placeholder.com
 [linkedin]: https://www.linkedin.com/in/frank-e-b4170392/
 [vscode]: https://code.visualstudio.com/
 [html5]: https://html.spec.whatwg.org/
